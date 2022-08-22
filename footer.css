@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(69, 16, 119);
+    color: white;
+    /* margin: 200px 300px 200px 300px; */
+}
+
+.container-fluid{
+    background-color: black;
+    margin-top: 180px;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-bottom: 110px;
+    padding-top: 130px;
+}
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.first-part li{
+    padding-top: 10px;
+}
+
+.first-part a{
+    text-decoration: none;
+    color: white;
+}
+
+.first-part a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.second-part{
+    padding-top: 15px;
+}
+.second-part a{
+    text-decoration: underline;
+    color: white;
+}
+
+.second-part a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.imp_links a{
+    padding-right: 20px;
+}
+
+.second-part {
+    font-size: 14px;
+}
+
+.dropdown-menu a{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+
+.dropdown-menu a:hover{
+    color: black;
+    background-color: aqua;
+    display: block;
+}
+
+.dropdown-menu li{
+    padding-left: 10px;
+    margin: 0;
+}
+
+i{
+    padding: 5px;
+}
+i:hover{
+    border: 1px dotted white;
+
+}
